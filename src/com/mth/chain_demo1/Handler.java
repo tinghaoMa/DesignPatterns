@@ -1,4 +1,4 @@
-package com.mth.chain;
+package com.mth.chain_demo1;
 
 public abstract class Handler {
 
